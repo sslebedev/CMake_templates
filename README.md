@@ -17,3 +17,4 @@ Introducing your own template, please, follow principles listed below:
 ## Content
 * Basic templates
   * [Single target](basic_templates/single_target)
+  * [Automatically generated file structure](basic_templates/auto_list_files)
