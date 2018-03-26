@@ -2,9 +2,9 @@
 This project is a storage for different project type templates using [CMake](https://cmake.org/overview/).
 
 ## Structure
-Repo contains dfferent project teemplates. They are classified using folder structure. Every project should be referenced from common content page _(todo: when teplates will be commented, extract content or comments from this file)_.
+The repository contains dfferent project templates. Foolder structure determines theirs classification. Every project should be referenced from common content page _(todo: extract content or comments for templates from this file)_.
 
-Teplate contains not only cmake files but also `mock_` files. They could be used for test or as an example or usage. `mock_` floders and even projects are allowed.
+A teplate contains not only cmake files but also `mock_` files. They could be used for test or as an example of usage. `mock_` floders and even projects are allowed.
 
 ## For committers
 
